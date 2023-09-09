@@ -45,6 +45,7 @@
 		04F9FB102AACB9C10088A72F /* TodoListUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TodoListUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		04F9FB142AACB9C10088A72F /* TodoListUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListUITests.swift; sourceTree = "<group>"; };
 		04F9FB162AACB9C10088A72F /* TodoListUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TodoListUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		04F9FB232AACBA1A0088A72F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +76,7 @@
 		04F9FAEC2AACB9C00088A72F = {
 			isa = PBXGroup;
 			children = (
+				04F9FB232AACBA1A0088A72F /* README.md */,
 				04F9FAF72AACB9C00088A72F /* TodoList */,
 				04F9FB092AACB9C10088A72F /* TodoListTests */,
 				04F9FB132AACB9C10088A72F /* TodoListUITests */,
